@@ -1,0 +1,38 @@
+<style>
+  h1 {
+    color: blue;
+  }
+</style>
+h1 {
+  color:#2E9AFE;
+  margin:0 0 20px;
+}
+<style>
+  h2 {
+    color: red;
+  }
+</style>
+h2 {
+  color:#FF0000;
+  margin:0 0 20px;
+}
+  h3 {
+    color: orange;
+  }
+</style>
+h3 {
+  color:#FF8000;
+  margin:0 0 20px;
+}
+h1{text-align: center;
+margin-top: 230px;
+font-size: 90px;}
+h1 span:nth-child(2){color:#FF0040;}
+h1 span:nth-child(3){color:#FE9A2E;}
+h1 span:nth-child(4){color:#2E9AFE;}
+h1 span:nth-child(5){color:#31B404;}
+h1 span:nth-child(6){color:#FF0040;}
+
+.search-bar{width:500px; 
+text-align: center;}
+
